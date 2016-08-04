@@ -1,0 +1,57 @@
+_repo: Zuleika-Dobson--Or-An-Oxford-Love-Story_1845
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+description: "Zuleika Dobson, full title Zuleika Dobson, or, an Oxford love story,\
+  \ is a 1911 novel by Max Beerbohm, a satire of undergraduate life at Oxford. It\
+  \ was his only novel, but was nonetheless very successful. This satire includes\
+  \ the famous line \"Death cancels all engagements\" and presents a corrosive view\
+  \ of Edwardian Oxford.\nIn 1998, the Modern Library ranked Zuleika Dobson 59th on\
+  \ its list of the 100 best English-language novels of the 20th century.\nThe book\
+  \ largely employs a third-person narrator limited to the character of Zuleika (pronounced\
+  \ \"Zu-lee-ka\", not \"Zu-like-a\"), then shifting to that of the Duke, then halfway\
+  \ through the novel suddenly becoming a first-person narrator who claims inspiration\
+  \ from the Greek Muse Clio, with his all-seeing narrative perspective provided by\
+  \ Zeus. This allows the narrator to also see the ghosts of notable historical visitors\
+  \ to Oxford, who are present but otherwise invisible to the human characters at\
+  \ certain times in the novel, adding an element of the supernatural.\nDr Robert\
+  \ Mighall in his Afterword to the New Centenary Edition of Zuleika (Collector's\
+  \ Library, 2011), writes: \"Zuleika is of the future.... [Beerbohm] anticipates\
+  \ an all-too-familiar feature of the contemporary scene: the D-list talent afforded\
+  \ A-list media attention.\"\nBeerbohm began writing the book in 1898, finishing\
+  \ in 1910, with Heinemann publishing it 26 October 1911. He saw it was not as a\
+  \ novel, rather \"the work of a leisurely essayist amusing himself with a narrative\
+  \ idea.\" Sydney Castle Roberts wrote a parody Zuleika in Cambridge (1941).\n\n\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1845'
+  wikidata: Q8075113
+language: en
+publication_note: '[S.l : s.n.],  1922 edition'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'College students -- Fiction'
+- !lcsh 'University of Oxford -- Fiction'
+- !lcsh 'Oxford (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'College stories'
+- GITenberg
+title: Zuleika Dobson; Or, An Oxford Love Story
+url: http://www.gutenberg.org/ebooks/1845
+wikipedia:
+- https://sh.wikipedia.org/wiki/Zuleika_Dobson
+- https://en.wikipedia.org/wiki/Zuleika_Dobson
