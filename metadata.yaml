@@ -1,5 +1,8 @@
 _repo: Zuleika-Dobson--Or-An-Oxford-Love-Story_1845
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beerbohm, Max, Sir
@@ -30,6 +33,8 @@ description: "Zuleika Dobson, full title Zuleika Dobson, or, an Oxford love stor
   \ novel, rather \"the work of a leisurely essayist amusing himself with a narrative\
   \ idea.\" Sydney Castle Roberts wrote a parody Zuleika in Cambridge (1941).\n\n\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1845#Zuleika-Dobson--Or-An-Oxford-Love-Story
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
